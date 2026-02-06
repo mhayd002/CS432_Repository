@@ -9,9 +9,9 @@
 
 ## Answer
 
-The example figure below shows the growth in the number of websites between 1993 and 1996.
+The figure below shows the Course Objectives for the CS 432 Course.
 
-![\label{fig:web-growth}](growth-early-web.png)
+![\label{fig:CS432-Course_Objectives}](CS432_CourseObjectivesScreenshot.png)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
