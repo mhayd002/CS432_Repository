@@ -1,7 +1,7 @@
-# HW# - EC 0.6 - Reports
+# HW# - HW 1 - Reports
 ### Matthew Haydon
 ### CS 432, Spring 2026
-### 2/6/2026
+### 2/15/2026
 
 # Q1
 
