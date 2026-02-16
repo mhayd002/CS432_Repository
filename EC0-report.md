@@ -9,9 +9,9 @@
 
 ## Answer
 
-The example figure below shows the growth in the number of websites between 1993 and 1996.
+The figure below shows the Course Objectives for the CS 432 Course.
 
-![\label{fig:web-growth}](growth-early-web.png)
+![\label{fig:CS432-Course_Objectives}](CS432_CourseObjectivesScreenshot.png)
 
 *If you want to include code in your report, you can insert a screenshot (if it's legible), or you can copy/paste the code into a fenced code block.*
 
@@ -21,14 +21,12 @@ The example figure below shows the growth in the number of websites between 1993
 
 import sys
 
-print ("{} is the name of the script." . format(sys.argv[0]))
-print ("There are {} arguments: {}" . format(len(sys.argv), str(sys.argv)))
-
-for ind, arg in enumerate(sys.argv):
-    print ("[{}]: {} {}".format(ind,arg,sys.argv[ind]))
+a = "Hello, World!"
+b = a.split(",")
+print(b)
 ```
 
-The table below shows a simple table.  
+The table below shows the first four weeks of the CS 432 Class Schedule.  
 
 |Week|Week Start Date|Topic|
 |:---|:---|:---|
@@ -59,5 +57,6 @@ The table below shows an example confusion matrix (you'll see this term later) f
 
 *Every report must list the references that you consulted while completing the assignment. If you consulted a webpage, you must include the URL.  These are just a couple examples.*
 
-* Stack Overflow, How can I parse (read) and use JSON in Python?, <https://stackoverflow.com/questions/7771011/how-can-i-parse-read-and-use-json-in-python>
-* ChatGPT conversation, Initial prompt: "write a python line to detect if a string ends with .png", <https://chat.openai.com/share/5de76e93-c26b-4665-a0fc-b782b01a9285>
+* W3Schools, Python Examples <[https://stackoverflow.com/questions/7771011/how-can-i-parse-read-and-use-json-in-python](https://www.w3schools.com/python/python_examples.asp)>
+* Communications of the ACM, Web Science: An Interdisciplinary Approach to Understanding the Web, <[https://chat.openai.com/share/5de76e93-c26b-4665-a0fc-b782b01a9285](https://cacm.acm.org/research/web-science/)>
+* ODU Systems Group, GlobalProtect VPN for Windows, <https://systems.cs.odu.edu/vpn/>
